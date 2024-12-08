@@ -58,7 +58,7 @@ img {
 .embrulho-esquerda {
     display: inline-block;
     width: 60%;
-    color: #5D5D7D;
+    color: #5d5d7e;
     padding-top: 20%;
     padding-left: 136px;
 }
@@ -149,7 +149,5 @@ button:active {
     header {
         display: none;
     }
-
-
 
 }
