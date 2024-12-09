@@ -129,7 +129,7 @@ button:active {
 
     button {
         display: block;
-        margin-left: 55px auto;
+        margin: 55px auto;
         
     }
 
