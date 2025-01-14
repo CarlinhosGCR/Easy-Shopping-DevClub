@@ -34,4 +34,12 @@
 </ul>
 Link do projeto
 
-<a href="https://carlinhosgcr.github.io/Easy-Shopping-DevClub/">Easy Shopping</a> 
+<a href="https://carlinhosgcr.github.io/Easy-Shopping-DevClub/" target="blank">Easy Shopping</a> 
+
+![CarlinhosGCR GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlinhosGCR&show_icons=true&theme=transparent)
+
+
+<img src="https://github.com/CarlinhosGCR/Easy-Shopping-DevClub/blob/main/Easy%20Shopping%20Via%20Mobile/DESKTOP.png?raw=true">
+<img src="https://github.com/CarlinhosGCR/Easy-Shopping-DevClub/blob/main/Easy%20Shopping%20Via%20Mobile/Cell%20Phone.png?raw=true">
+
+
