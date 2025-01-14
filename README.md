@@ -2,6 +2,8 @@
 
 <p>Um site de aquisição fácil e intuitivo, projetado para dispositivos móveis. O site apresenta uma interface limpa e moderna, com uma seção de apresentação e uma seção de navegação.
  </p>
+ <br>
+ <p> Projeto que eu aprendi com a comunidade do <a href="https://rodolfomori.com.br/devclub-n1/">Dev club</a>  </p>
 
  <h2>Características</h2>
 
